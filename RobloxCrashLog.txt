@@ -1,4 +1,4 @@
-VERSION,1.1.0
+VERSION,1.2.0
 1,ethan,ethan,5079AD7F-000906ED
 2,xuug,xuug123,2247B947-00B40F40
 3,ifyoucanreadthis,rifflehasherpes,94BC6ECB-00A50F00
